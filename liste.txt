@@ -1,6 +1,6 @@
-1. Favorilere ekleme özelliği
+1. Kategorilere göre içerik filtreleme
 2. Editör seçimlerini görüntüleme
-3. Kategorilere göre içerik filtreleme
+3. Favorilere ekleme özelliği
 4. Popüler dizi ve film önerileri alma
 5. Kullanıcı yorumları ekleme
 
